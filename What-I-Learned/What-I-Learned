@@ -1,0 +1,26 @@
+<!DOCTYPE: html>
+<header>
+<title>
+	What I Learned
+</title>
+</header>
+<body>
+In the rails tutorial that "RailsGirls" were so nice to set up, I had the opportunity to
+learn far more than simply following the steps, and playing copy cat. Here is a fun list
+set up in HTML style, just so I can keep practicing away!
+
+The Things I Learned:
+	<ul>
+		<ls> Comfort with and around the command line, it is not as scary as it looks! </ls>
+		<ls> How to open folders from the command line into my text editor. </ls>
+		<ls> What "LocalHost" is and how to use it, as well as trouble shooting. It works
+				much better when you push the changes to the server instead of just wondering
+				why the refresh button isn't working. </ls>
+		<ls> A real example of the differences between strings, arrays and objects.  I know
+				in ruby "everything is an object". </ls>
+		<ls> How to upload a project of my own to Github. It took a minute to draw the 
+				distinction between Git and Github. </ls> 
+		<ls> How much fun working on a small project like this can be! </ls>
+	</ul>
+	
+	
